@@ -10,8 +10,5 @@
   "scripts": {
     "build": "bun run scripts/build.ts"
   },
-  "type": "module",
-  "dependencies": {
-    "cron": "^3.1.7"
-  }
+  "type": "module"
 }
